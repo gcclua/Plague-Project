@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Subtitles>
+	<Group id="1">
+		<subtitle speaker_id="001" duration="2.5">安安，你好</subtitle>
+		<subtitle speaker_id="001" block="true">How are you?</subtitle>
+		<subtitle speaker_id="002" block="true">幾歲，住哪?</subtitle>
+	</Group>
+</Subtitles>
